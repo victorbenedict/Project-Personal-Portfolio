@@ -1,7 +1,8 @@
 # Portfolio
 
 - My Web Development portfolio made in NextJS.
-- Deployed in vercel. [Link here](victorbenedict-portfolio.vercel.app/)
+- Deployed in vercel. 
+- [Link here](https://victorbenedict-portfolio.vercel.app/)
 
 ## Acknowledgments
 
